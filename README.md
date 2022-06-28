@@ -1,2 +1,2 @@
 # glabsite-react
-remaking personal site in React
+remaking personal site in React :)
